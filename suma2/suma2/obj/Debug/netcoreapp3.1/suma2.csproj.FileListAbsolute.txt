@@ -1,0 +1,13 @@
+C:\Users\SENA\Desktop\suma2\suma2\bin\Debug\netcoreapp3.1\suma2.exe
+C:\Users\SENA\Desktop\suma2\suma2\bin\Debug\netcoreapp3.1\suma2.deps.json
+C:\Users\SENA\Desktop\suma2\suma2\bin\Debug\netcoreapp3.1\suma2.runtimeconfig.json
+C:\Users\SENA\Desktop\suma2\suma2\bin\Debug\netcoreapp3.1\suma2.runtimeconfig.dev.json
+C:\Users\SENA\Desktop\suma2\suma2\bin\Debug\netcoreapp3.1\suma2.dll
+C:\Users\SENA\Desktop\suma2\suma2\bin\Debug\netcoreapp3.1\suma2.pdb
+C:\Users\SENA\Desktop\suma2\suma2\obj\Debug\netcoreapp3.1\suma2.csprojAssemblyReference.cache
+C:\Users\SENA\Desktop\suma2\suma2\obj\Debug\netcoreapp3.1\suma2.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\suma2\suma2\obj\Debug\netcoreapp3.1\suma2.AssemblyInfo.cs
+C:\Users\SENA\Desktop\suma2\suma2\obj\Debug\netcoreapp3.1\suma2.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\suma2\suma2\obj\Debug\netcoreapp3.1\suma2.dll
+C:\Users\SENA\Desktop\suma2\suma2\obj\Debug\netcoreapp3.1\suma2.pdb
+C:\Users\SENA\Desktop\suma2\suma2\obj\Debug\netcoreapp3.1\suma2.genruntimeconfig.cache
