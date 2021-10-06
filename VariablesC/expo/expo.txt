@@ -1,0 +1,4 @@
+las variable son estructuras de datos que pueden variar durante la ejecución de un programa.
+Declarar variables significa indicar el tipo de dato que almacenara las variables que participan en el programa.
+Antes de usar una variable debemos declararla y es recomendable iniciarla. La primera vez que se usa debe declararse, 
+el resto de veces no se debe hacer, es importante que el valor asignado sea compatible con el tipo de variable

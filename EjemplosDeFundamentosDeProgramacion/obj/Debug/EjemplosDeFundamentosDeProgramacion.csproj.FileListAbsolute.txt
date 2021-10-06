@@ -1,0 +1,9 @@
+C:\Users\SENA\source\repos\EjemplosDeFundamentosDeProgramacion\obj\Debug\EjemplosDeFundamentosDeProgramacion.Autos.resources
+C:\Users\SENA\source\repos\EjemplosDeFundamentosDeProgramacion\obj\Debug\EjemplosDeFundamentosDeProgramacion.Properties.Resources.resources
+C:\Users\SENA\source\repos\EjemplosDeFundamentosDeProgramacion\obj\Debug\EjemplosDeFundamentosDeProgramacion.csproj.GenerateResource.cache
+C:\Users\SENA\source\repos\EjemplosDeFundamentosDeProgramacion\obj\Debug\EjemplosDeFundamentosDeProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\EjemplosDeFundamentosDeProgramacion\bin\Debug\EjemplosDeFundamentosDeProgramacion.exe.config
+C:\Users\SENA\source\repos\EjemplosDeFundamentosDeProgramacion\bin\Debug\EjemplosDeFundamentosDeProgramacion.exe
+C:\Users\SENA\source\repos\EjemplosDeFundamentosDeProgramacion\bin\Debug\EjemplosDeFundamentosDeProgramacion.pdb
+C:\Users\SENA\source\repos\EjemplosDeFundamentosDeProgramacion\obj\Debug\EjemplosDeFundamentosDeProgramacion.exe
+C:\Users\SENA\source\repos\EjemplosDeFundamentosDeProgramacion\obj\Debug\EjemplosDeFundamentosDeProgramacion.pdb

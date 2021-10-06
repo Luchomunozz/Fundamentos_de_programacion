@@ -1,0 +1,10 @@
+C:\Users\SENA\source\repos\VariablesC\VariablesC\bin\Debug\VariablesC.exe.config
+C:\Users\SENA\source\repos\VariablesC\VariablesC\bin\Debug\VariablesC.exe
+C:\Users\SENA\source\repos\VariablesC\VariablesC\bin\Debug\VariablesC.pdb
+C:\Users\SENA\source\repos\VariablesC\VariablesC\obj\Debug\VariablesC.csprojAssemblyReference.cache
+C:\Users\SENA\source\repos\VariablesC\VariablesC\obj\Debug\VariablesC.Properties.Resources.resources
+C:\Users\SENA\source\repos\VariablesC\VariablesC\obj\Debug\VariablesC.csproj.GenerateResource.cache
+C:\Users\SENA\source\repos\VariablesC\VariablesC\obj\Debug\VariablesC.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\VariablesC\VariablesC\obj\Debug\VariablesC.exe
+C:\Users\SENA\source\repos\VariablesC\VariablesC\obj\Debug\VariablesC.pdb
+C:\Users\SENA\source\repos\VariablesC\VariablesC\obj\Debug\VariablesC.Form1.resources

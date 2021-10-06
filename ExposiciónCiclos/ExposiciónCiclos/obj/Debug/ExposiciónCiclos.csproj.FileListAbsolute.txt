@@ -1,0 +1,10 @@
+C:\Users\SENA\source\repos\ExposiciónCiclos\ExposiciónCiclos\bin\Debug\ExposiciónCiclos.exe.config
+C:\Users\SENA\source\repos\ExposiciónCiclos\ExposiciónCiclos\bin\Debug\ExposiciónCiclos.exe
+C:\Users\SENA\source\repos\ExposiciónCiclos\ExposiciónCiclos\bin\Debug\ExposiciónCiclos.pdb
+C:\Users\SENA\source\repos\ExposiciónCiclos\ExposiciónCiclos\obj\Debug\ExposiciónCiclos.csprojAssemblyReference.cache
+C:\Users\SENA\source\repos\ExposiciónCiclos\ExposiciónCiclos\obj\Debug\ExposiciónCiclos.Form1.resources
+C:\Users\SENA\source\repos\ExposiciónCiclos\ExposiciónCiclos\obj\Debug\ExposiciónCiclos.Properties.Resources.resources
+C:\Users\SENA\source\repos\ExposiciónCiclos\ExposiciónCiclos\obj\Debug\ExposiciónCiclos.csproj.GenerateResource.cache
+C:\Users\SENA\source\repos\ExposiciónCiclos\ExposiciónCiclos\obj\Debug\ExposiciónCiclos.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\ExposiciónCiclos\ExposiciónCiclos\obj\Debug\ExposiciónCiclos.exe
+C:\Users\SENA\source\repos\ExposiciónCiclos\ExposiciónCiclos\obj\Debug\ExposiciónCiclos.pdb
